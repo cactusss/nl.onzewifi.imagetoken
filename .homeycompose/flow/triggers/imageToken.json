@@ -1,0 +1,20 @@
+{
+	"id": "imageToken",
+	"title": {
+		"en": "New CleanReport",
+		"fr": "Nouveau rapport de nettoyage",
+		"nl": "Nieuw schoonmaakrapport"
+	},
+	"platforms": [
+		"local"
+	],
+	"tokens": [
+		{
+			"name": "image",
+			"type": "image",
+			"title": {
+				"en": "just an image"
+			}
+		}
+	]
+}
